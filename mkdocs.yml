@@ -5,7 +5,7 @@ repo_name: GitHub
 edit_uri: edit/master/docs
 copyright: Copyright &copy; 2012 - 2021 search-test.org.
 theme:
-  name: mkdocs
+  name: material
   language: zh
 nav:
   - Home: index.md
