@@ -9,8 +9,3 @@ theme:
   language: zh
 nav:
   - Home: index.md
-plugins:
-  - search:
-      lang:
-        - en
-        - ja
