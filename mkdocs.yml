@@ -11,4 +11,7 @@ nav:
   - Home: index.md
 plugins:
   - search:
-      separator: '[\s\-\.]+'
+      lang:
+        - en
+        - ja
+      separator: '[\s\-\，\。]+'
