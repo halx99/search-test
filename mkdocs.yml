@@ -9,3 +9,6 @@ theme:
   language: zh
 nav:
   - Home: index.md
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
