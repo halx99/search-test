@@ -14,4 +14,4 @@ plugins:
       lang:
         - en
         - ja
-      separator: '[\s\-\，\。]+'
+      separator: '[\s\-\._]+'
